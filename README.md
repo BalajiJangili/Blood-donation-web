@@ -10,7 +10,6 @@ A comprehensive web platform connecting blood donors with recipients to streamli
 
 The Blood Donation Web Platform is a community-driven initiative designed to bridge the gap between blood donors and those in need. Built with modern web technologies, this platform offers real-time donor matching, profile management, and location-based services to make blood donation more accessible and efficient.
 
-![Blood Donation Platform Screenshot](https://via.placeholder.com/800x400?text=Blood+Donation+Platform)
 
 ## ✨ Features
 
@@ -132,7 +131,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Balaji Jangili - [@balaji_jangili](https://twitter.com/balaji_jangili) - balaji.jangili@example.com
+
+Balaji Jangili - [@balaji_jangili](https://x.com/balu_031?t=ocXAC3IkNiVIfG7Ssn4LbQ&s=09) - balajiashok018@gmail.com
 
 Project Link: [https://github.com/BalajiJangili/Blood-donation-web](https://github.com/BalajiJangili/Blood-donation-web)
 
